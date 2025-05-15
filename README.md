@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Administrador de Tareas con Patrones de Diseño
 
 Este proyecto implementa un sencillo administrador de tareas utilizando varios patrones de diseño para organizar y gestionar las funcionalidades de manera eficiente.
@@ -134,7 +133,3 @@ classDiagram
   CommandInvoker o-- Command : executes
   TaskManager ..> TaskList : manages
 ```
-=======
-# Administrador-de-Tareas
-Administrador de tareas en python y patrones de diseño
->>>>>>> 146a4b6b40d51dbf16dff3f10c5711d992ab04e1
