@@ -1,0 +1,25 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+eggs/
+*.egg-info
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos específicos del sistema operativo (si aplica)
+.DS_Store       # macOS
+Thumbs.db        # Windows
+
+# Archivos de configuración local o sensibles
+.env
+*.ini
+*.log
+
+# Archivos de datos o temporales (si no son esenciales para el repo)
+data/
+tmp/
